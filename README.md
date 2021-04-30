@@ -1,0 +1,2 @@
+# myExamplesCC
+short examples
